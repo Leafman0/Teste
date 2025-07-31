@@ -11,4 +11,4 @@
 
 ---
 
-'Isso é um código'
+`Isso é um código`
